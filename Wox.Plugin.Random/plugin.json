@@ -1,0 +1,12 @@
+{
+    "ID":"GENERATE4M3JBJUQYVGKDKINR5HDZRJE",
+    "ActionKeyword":"gen",
+    "Name":"Random Generator",
+    "Description":"Random Generator",
+    "Author":"insight",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"",
+    "IcoPath":"image\\app.ico",
+    "ExecuteFileName":"main.py"
+}

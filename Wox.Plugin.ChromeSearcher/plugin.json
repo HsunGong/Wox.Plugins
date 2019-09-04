@@ -1,0 +1,12 @@
+{
+    "ID":"CHROMESEARCHERAKG2WKJL4RFRTOPFP6",
+    "ActionKeyword":"b",
+    "Name":"ChromeSearcher",
+    "Description":"search in chrome",
+    "Author":"insight",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"",
+    "IcoPath":"image\\app.ico",
+    "ExecuteFileName":"main.py"
+}
