@@ -1,12 +1,13 @@
 {
-    "ID":"D2D3C24A684D411DB66FE1B89D6C3B1B",
-    "ActionKeyword":"base",
-    "Name":"Base Use for windows",
-    "Description":"Wox.Plugin.Base",
-    "Author":"qianlifeng",
-    "Version":"1.0",
-    "Language":"python",
-    "Website":"http://www.getwox.com",
-    "ExecuteFileName":"main.py",
-    "IcoPath": "images/app.png"
+    "ID": "D2D3C24A684D411DB66FE1B89D6C3B1B",
+    "ActionKeyword": "base",
+    "Name": "Base Use for windows",
+    "Description": "Wox.Plugin.Base",
+    "Author": "qianlifeng",
+    "Version": "1.0",
+    "Language": "python",
+    "Website": "http://www.getwox.com",
+    "ExecuteFileName": "main.py",
+    "IcoPath": "images/app.png",
+    "pacPath": "C:/Users/xun/Downloads/software/ShadowsockR/pac?.txt"
 }

@@ -88,7 +88,7 @@ class ssr(object):
 
     @classmethod
     def get_pac_path(cls):
-        with open(os.path.join(os.path.dirname(__file__), "config.json"),
+        with open(os.path.join(os.path.dirname(__file__), "plugin.json"),
                   "r") as content_file:
             config = json.loads(content_file.read())
             return config["pacPath"]
