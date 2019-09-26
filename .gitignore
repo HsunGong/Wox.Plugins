@@ -3,3 +3,24 @@ __pycache__/
 
 *.zip
 *.wox
+
+HelloWorldCSharp/
+HelloWorldPython/
+Wox.Plugin.BrowserBookmark/
+Wox.Plugin.Caculator/
+Wox.Plugin.Color/Images/color.png
+Wox.Plugin.Color/Languages/
+Wox.Plugin.Color/Wox.Infrastructure.pdb
+Wox.Plugin.Color/Wox.Plugin.Color.dll
+Wox.Plugin.Color/Wox.Plugin.Color.pdb
+Wox.Plugin.Color/Wox.Plugin.pdb
+Wox.Plugin.ControlPanel/
+Wox.Plugin.Everything/
+Wox.Plugin.Folder/
+Wox.Plugin.PluginIndicator/
+Wox.Plugin.PluginManagement/
+Wox.Plugin.Program/
+Wox.Plugin.Shell/
+Wox.Plugin.Sys/
+Wox.Plugin.Url/
+Wox.Plugin.WebSearch/
